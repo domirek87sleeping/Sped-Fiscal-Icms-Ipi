@@ -179,3 +179,6 @@ This repository serves as the official landing page for Sped Fiscal ICMS IPI. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Sped Fiscal ICMS IPI today!**
+
+---
+**Last updated:** 2026-11-06 22:55:14 UTC
