@@ -181,4 +181,4 @@ This repository serves as the official landing page for Sped Fiscal ICMS IPI. Th
 **Get the most recent version of Sped Fiscal ICMS IPI today!**
 
 ---
-**Last updated:** 2026-11-10 00:02:47 UTC
+**Last updated:** 2026-11-10 08:08:49 UTC
